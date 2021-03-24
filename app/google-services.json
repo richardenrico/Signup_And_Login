@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "914110377131",
+    "project_id": "login-and-signup-71b49",
+    "storage_bucket": "login-and-signup-71b49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914110377131:android:edd906238fbe7d62095bee",
+        "android_client_info": {
+          "package_name": "com.materi.pertemuan_5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914110377131-afuc50j1os49cg9vqipq51m3i9q8ia78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSls-ej-1YkyWY02i0Zv22gt-lgmPo1Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914110377131-afuc50j1os49cg9vqipq51m3i9q8ia78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914110377131:android:445ac4fcd685474c095bee",
+        "android_client_info": {
+          "package_name": "com.tugas.signupandlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914110377131-afuc50j1os49cg9vqipq51m3i9q8ia78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSls-ej-1YkyWY02i0Zv22gt-lgmPo1Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914110377131-afuc50j1os49cg9vqipq51m3i9q8ia78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
